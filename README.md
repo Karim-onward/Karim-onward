@@ -1,3 +1,10 @@
+![](assets/Bottom_up.svg)
+
+![](assets/header_.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Afeez+Kareem;QA+Lead+%7C+Software+Test+Engineer;ISTQB+%7C+SCRUM+Master+%7C+PMP+Certified;Experienced+in+Manual+%26+Automation+Testing;Expert+in+API,+UI,+and+Database+Testing;Always+ensuring+quality+and+collaboration+✅)](https://git.io/typing-svg)
+
+
 # Afeez Kareem – QA Lead | Software Test Engineer
 
 Welcome to the professional profile repository of **Afeez Kareem**, a highly experienced QA Lead and Software Development Test Engineer. This repository showcases Afeez’s extensive expertise in manual and automation testing across industries such as Finance, Insurance, Healthcare, Food, Legal Services, and B2B Platforms.
@@ -57,6 +64,27 @@ I am a detail-oriented and results-driven QA professional with hands-on experien
 
 ## 📬 Contact
 - 💼 References available on request
+
+---
+
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karim-onward&theme=dracula&show_icons=true&hide_border=false&count_private=true)<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Karim-onward&theme=dracula&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karim-onward&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Karim-onward&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
