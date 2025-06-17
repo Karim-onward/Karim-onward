@@ -15,16 +15,55 @@ I am a detail-oriented and results-driven QA professional with hands-on experien
 
 ## 🔧 Skills & Tools
 
-- **Methodologies**: Agile, Scrum, SDLC, STLC, CI/CD
-- **Testing Types**: Manual, Automation, API, Unit, Regression, System, UAT
-- **Tools**:
-  - Test Management: Azure DevOps, Jira, TestRail
-  - Automation: Selenium, Python, Allure Behave, Jest, TypeScript+PecoTS
-  - API Testing: Postman
-  - DB: MySQL Workbench
-  - Version Control: GitHub, BitBucket
-  - Environments: UNIX, Windows, Kubernetes
-  - Others: Chrome DevTools, BrowserStack
+### 📌 Methodologies
+![Agile](https://img.shields.io/badge/Agile-FFD43B?style=for-the-badge&logo=agile&logoColor=black)
+![Scrum](https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-4CAF50?style=for-the-badge)
+![STLC](https://img.shields.io/badge/STLC-9C27B0?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🧪 Testing Types
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-007ACC?style=for-the-badge)
+![Automation Testing](https://img.shields.io/badge/Automation_Testing-2196F3?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-FF5722?style=for-the-badge&logo=postman)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-673AB7?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-009688?style=for-the-badge)
+![System Testing](https://img.shields.io/badge/System_Testing-3F51B5?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-FFC107?style=for-the-badge)
+
+### 🛠️ Tools
+**Test Management:**
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-000000?style=for-the-badge)
+
+**Automation:**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-EE5A24?style=for-the-badge)
+![Behave](https://img.shields.io/badge/Behave-1C1C1C?style=for-the-badge)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PecoTS](https://img.shields.io/badge/PecoTS-5A4FCF?style=for-the-badge)
+
+**API Testing:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Database:**
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Version Control:**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+**Environments:**
+![UNIX](https://img.shields.io/badge/UNIX-222222?style=for-the-badge&logo=unix)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Others:**
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![BrowserStack](https://img.shields.io/badge/BrowserStack-FF9900?style=for-the-badge&logo=browserstack&logoColor=white)
 
 ## 🧪 Professional Experience
 
