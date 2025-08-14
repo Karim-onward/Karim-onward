@@ -5,13 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Afeez+Kareem;QA+Lead+%7C+Software+Test+Engineer;ISTQB+%7C+SCRUM+Master+%7C+PMP+Certified;Experienced+in+Manual+%26+Automation+Testing;Expert+in+API,+UI,+and+Database+Testing;Always+ensuring+quality+and+collaboration+✅)](https://git.io/typing-svg)
 
 
-# Afeez Kareem – QA Lead | Software Test Engineer
+# Afeez Kareem – SDET | Software Developer Engineer In Test
 
-Welcome to the professional profile repository of **Afeez Kareem**, a highly experienced QA Lead and Software Development Test Engineer. This repository showcases Afeez’s extensive expertise in manual and automation testing across industries such as Finance, Insurance, Healthcare, Food, Legal Services, and B2B Platforms.
+Welcome to the professional profile repository of **Afeez Kareem**, a highly experienced QA Lead and Software Development Test Engineer. This repository showcases Afeez’s extensive expertise in DevOps, Development and Test Automation across industries such as Finance, Insurance, Healthcare, Food, Legal Services, and B2B Platforms.
 
 ## 👨‍💻 About Me
 
-I am a detail-oriented and results-driven QA professional with hands-on experience in testing web and mobile applications. My background includes system, regression, E2E, unit, and exploratory testing, as well as proficiency in test planning, execution, and automation implementation. I excel in Agile environments, actively contribute to CI/CD pipelines, and am passionate about delivering high-quality software.
+I am a detail-oriented and results-driven SDET professional with hands-on experience in developing web and mobile applications. My background includes system, Security Testing, regression, E2E, unit, and performance testing, as well as proficiency in test AI Platform and automation implementation. I excel in Agile environments, actively contribute to CI/CD pipelines, and am passionate about delivering high-quality software.
 
 ## 🔧 Skills & Tools
 
@@ -67,7 +67,7 @@ I am a detail-oriented and results-driven QA professional with hands-on experien
 
 ## 🧪 Professional Experience
 
-### QA Lead — *Pecometer Software* (03/2024 – Present)
+### Software Test Eng — *Pecometer Software* (03/2024 – Present)
 - Leading QA efforts for insurance, healthcare, warehouse, and education platforms.
 - Reviewing dev specs, planning tests, and executing automated and manual testing.
 - Collaborating directly with full-stack developers to fix bugs and enhance system reliability.
